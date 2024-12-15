@@ -1,0 +1,56 @@
+plugins {
+    id "com.android.application"
+    id "kotlin-android"
+    // The Flutter Gradle Plugin must be applied after the Android and Kotlin Gradle plugins.
+    id "dev.flutter.flutter-gradle-plugin"
+    //id 'com.google.gms.google-services' // Applied plugin for Google services
+}
+
+android {
+    namespace = "com.vibeandseek" // Update this to match your new package name
+    compileSdk = flutter.compileSdkVersion
+    ndkVersion = flutter.ndkVersion
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_1_8
+        targetCompatibility = JavaVersion.VERSION_1_8
+    }
+
+    kotlinOptions {
+        jvmTarget = JavaVersion.VERSION_1_8
+    }
+
+    defaultConfig {
+        // Update the applicationId to your new package name
+        applicationId = "com.vibeandseek" // Your new package name
+        minSdk = flutter.minSdkVersion
+        targetSdk = flutter.targetSdkVersion
+        versionCode = flutter.versionCode
+        versionName = flutter.versionName
+    }
+
+    buildTypes {
+        release {
+            // Add your own signing config for the release build.
+            signingConfig = signingConfigs.debug
+        }
+    }
+}
+
+dependencies {
+    // Import the Firebase BoM (Bill of Materials)
+    //implementation platform('com.google.firebase:firebase-bom:33.7.0')
+
+    // Add Firebase Analytics dependency
+    //implementation 'com.google.firebase:firebase-analytics'
+
+    // Add other Firebase dependencies as needed, without specifying versions
+    // implementation 'com.google.firebase:firebase-auth'
+    // implementation 'com.google.firebase:firebase-firestore'
+    // More Firebase libraries can be added as required
+}
+
+// Flutter-specific configuration
+flutter {
+    source = "../.."
+}
