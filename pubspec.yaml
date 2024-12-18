@@ -104,6 +104,13 @@ flutter:
     - assets/images/back.png
     - assets/images/human_1_icon.png
     - assets/images/human_2_icon.png
+    - assets/images/smile_icon.png
+    - assets/images/location_icon.png
+    - assets/images/heart_icon.png
+    - assets/images/tickets_icon.png
+    - assets/images/bell_icon.png
+    - assets/images/trophy_icon.png
+    - assets/images/my_profile_icon.png
 
   fonts:
     - family: CaesarDressing
