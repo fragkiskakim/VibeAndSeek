@@ -1,0 +1,35 @@
+{
+    "Users": {
+      "user1": {
+        "username": "john_doe",
+        "email": "john@example.com",
+        "password": "password123",
+        "points": 0
+      },
+      "user2": {
+        "username": "jane_smith",
+        "email": "jane@example.com",
+        "password": "password456",
+        "points": 0
+      },
+      "user3": {
+        "username": "fragkiska_kiminou",
+        "email": "fragkiska.kiminou@example.com",
+        "password": "password789",
+        "points": 0
+      },
+      "user4": {
+        "username": "george_doudounakis",
+        "email": "george.doudounakis@example.com",
+        "password": "password321",
+        "points": 0
+      },
+      "user5": {
+        "username": "efrosini_iliadi",
+        "email": "efrosini.iliadi@example.com",
+        "password": "password654",
+        "points": 0
+      }
+    }
+  }
+  

@@ -1,0 +1,14 @@
+{
+    "User_Wishlist": {
+      "wish1": {
+        "user_id": "user1",
+        "location_id": "loc1",
+        "added_date": "2024-01-01"
+      },
+      "wish2": {
+        "user_id": "user2",
+        "location_id": "loc2",
+        "added_date": "2024-01-02"
+      }
+    }
+  }

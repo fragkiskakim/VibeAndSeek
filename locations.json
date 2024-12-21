@@ -1,0 +1,724 @@
+{
+    "loc1": {
+        "name": "Acropolis Museum",
+        "address": "Dionysiou Areopagitou 15, Athina 117 42, Greece",
+        "latitude": 37.9684499,
+        "longitude": 23.7285227,
+        "rating": 4.7,
+        "place_id": "ChIJ4eRGPxe9oRQRPAoBLGq0D7A",
+        "types": [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc2": {
+        "name": "National Museum of Contemporary Art Αthens (ΕΜΣΤ)",
+        "address": "Λεωφ. Καλλιρρόης και Αμβρ. Φραντζή (πρώην εργοστάσιο, Leof. Andrea Siggrou 51-53, Athina 117 43, Greece",
+        "latitude": 37.9630008,
+        "longitude": 23.7253443,
+        "rating": 4.3,
+        "place_id": "ChIJXS3WrEG9oRQReJNjNUOBoeU",
+        "types": [
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc3": {
+        "name": "Acropolis of Athens",
+        "address": "Athens 105 58, Greece",
+        "latitude": 37.9715323,
+        "longitude": 23.7257492,
+        "rating": 4.8,
+        "place_id": "ChIJ86z1Nxi9oRQR9g3r9ULAl1w",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc4": {
+        "name": "National Gallery - Alexandros Soutsos Museum",
+        "address": "Leof. Vasileos Konstantinou 50, Athina 115 25, Greece",
+        "latitude": 37.9757261,
+        "longitude": 23.7493384,
+        "rating": 4.7,
+        "place_id": "ChIJsbZO7ES9oRQRJIl9aIo_xJY",
+        "types": [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc5": {
+        "name": "Athens Olympic Museum",
+        "address": "Leof. Kifisias 37a, Marousi 151 23, Greece",
+        "latitude": 38.0349641,
+        "longitude": 23.7911675,
+        "rating": 4.7,
+        "place_id": "ChIJfQWuWbOZoRQRqvnHOGXXO0Y",
+        "types": [
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc6": {
+        "name": "National Archaeological Museum",
+        "address": "28is Oktovriou 44, Athina 106 82, Greece",
+        "latitude": 37.98902289999999,
+        "longitude": 23.7327599,
+        "rating": 4.6,
+        "place_id": "ChIJi_3FvzO9oRQRtILLqjSdogI",
+        "types": [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc7": {
+        "name": "Temple of Poseidon",
+        "address": "Sounion 195 00, Greece",
+        "latitude": 37.6502055,
+        "longitude": 24.0245867,
+        "rating": 4.8,
+        "place_id": "ChIJve8ybRvxoRQRBDrd_gYAUT0",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc8": {
+        "name": "Temple of Olympian Zeus",
+        "address": "Athens 105 57, Greece",
+        "latitude": 37.9693,
+        "longitude": 23.7331,
+        "rating": 4.5,
+        "place_id": "ChIJKWScmxa9oRQRVULpHyK7GVU",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc9": {
+        "name": "Panathenaic Stadium",
+        "address": "Leof. Vasileos Konstantinou, Athina 116 35, Greece",
+        "latitude": 37.9683342,
+        "longitude": 23.7411118,
+        "rating": 4.7,
+        "place_id": "ChIJYRK_3mq9oRQRRrCuJb-4Sqc",
+        "types": [
+            "stadium",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc10": {
+        "name": "Museum of Cycladic Art",
+        "address": "Neofitou Douka 4, Athina 106 74, Greece",
+        "latitude": 37.9758705,
+        "longitude": 23.7422236,
+        "rating": 4.7,
+        "place_id": "ChIJv1L9at-8oRQR2Nmvb6t96Yc",
+        "types": [
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc11": {
+        "name": "War Museum Athens",
+        "address": "Rizari 2-4, Athina 106 75, Greece",
+        "latitude": 37.9754601,
+        "longitude": 23.7455538,
+        "rating": 4.7,
+        "place_id": "ChIJLZBWAkS9oRQRIwHyd0_ypDg",
+        "types": [
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc12": {
+        "name": "National Historical Museum - Old Parliament House",
+        "address": "ΜΕΓΑΡΟ ΠΑΛΑΙΑΣ ΒΟΥΛΗΣ ΠΛΑΤΕΙΑ ΚΟΛΟΚΟΤΡΩΝΗ, Stadiou 13, Athina 105 61, Greece",
+        "latitude": 37.9777149,
+        "longitude": 23.7328725,
+        "rating": 4.7,
+        "place_id": "ChIJV4G4-Tu9oRQRGMYr8VrDqVM",
+        "types": [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc13": {
+        "name": "Bronco",
+        "address": "Ploutarchou 10, Athina 106 76, Greece",
+        "latitude": 37.9768917,
+        "longitude": 23.7455537,
+        "rating": 4.4,
+        "place_id": "ChIJFS27Rd-eoRQRNj6R7hq4JvM",
+        "types": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc14": {
+        "name": "Ohh Boy",
+        "address": "Archelaou 32, Athina 116 35, Greece",
+        "latitude": 37.9724154,
+        "longitude": 23.7455671,
+        "rating": 4.4,
+        "place_id": "ChIJBTnOKkK9oRQRDqFw5CWvRS4",
+        "types": [
+            "bar",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc15": {
+        "name": "Fellos",
+        "address": "vasilikis kai kolokotroni, Athina 105 60, Greece",
+        "latitude": 37.9777595,
+        "longitude": 23.7280331,
+        "rating": 4.4,
+        "place_id": "ChIJyQ2gTwC9oRQRnQwhjF0OaaU",
+        "types": [
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc16": {
+        "name": "The Makers Athens",
+        "address": "Praxitelous 37, Athina 105 60, Greece",
+        "latitude": 37.9792864,
+        "longitude": 23.729074,
+        "rating": 4.6,
+        "place_id": "ChIJL-NAOc-9oRQRXMYCdQGL_Uo",
+        "types": [
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc17": {
+        "name": "Anana Coffee & Food",
+        "address": "Praxitelous 33, Athina 105 60, Greece",
+        "latitude": 37.979075,
+        "longitude": 23.7293905,
+        "rating": 4.2,
+        "place_id": "ChIJ-1R9-QW9oRQRuBZHFVgHaIo",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc18": {
+        "name": "heteroclito",
+        "address": "Fokionos 2, Athina 105 63, Greece",
+        "latitude": 37.975643,
+        "longitude": 23.7305773,
+        "rating": 4.6,
+        "place_id": "ChIJxRBmAD29oRQR9eF2ET38OzE",
+        "types": [
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc19": {
+        "name": "Lovely Days",
+        "address": "Σοφοκλή Βενιζέλου 42, Kolokotroni 35, Peristeri 121 31, Greece",
+        "latitude": 38.0052787,
+        "longitude": 23.6951219,
+        "rating": 4.7,
+        "place_id": "ChIJ_y-DyFijoRQRTBkjCZ58bmg",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc20": {
+        "name": "Anafiotika",
+        "address": "Anafiotika, Athens, Greece",
+        "latitude": 37.97238189999999,
+        "longitude": 23.7281127,
+        "rating": "N/A",
+        "place_id": "ChIJ1R5whRm9oRQRhlUhe3e_GQk",
+        "types": [
+            "neighborhood",
+            "political"
+        ],
+        "status": "FOUND"
+    },
+    "loc21": {
+        "name": "Monastiraki",
+        "address": "Monastiraki, Athens, Greece",
+        "latitude": 37.9758108,
+        "longitude": 23.7268379,
+        "rating": "N/A",
+        "place_id": "ChIJ9S6n5yK9oRQRUk87-S29ACY",
+        "types": [
+            "neighborhood",
+            "political"
+        ],
+        "status": "FOUND"
+    },
+    "loc22": {
+        "name": "Plaka",
+        "address": "Plaka, Athens, Greece",
+        "latitude": 37.9725529,
+        "longitude": 23.7303364,
+        "rating": "N/A",
+        "place_id": "ChIJMTraCxe9oRQRsd0QOZ0-o1A",
+        "types": [
+            "neighborhood",
+            "political"
+        ],
+        "status": "FOUND"
+    },
+    "loc23": {
+        "name": "Thiseio",
+        "address": "Thiseio, Athens, Greece",
+        "latitude": 37.9750205,
+        "longitude": 23.7170824,
+        "rating": "N/A",
+        "place_id": "ChIJ9RhFPCK9oRQRMlA7-S29ACY",
+        "types": [
+            "neighborhood",
+            "political"
+        ],
+        "status": "FOUND"
+    },
+    "loc24": {
+        "name": "Athens National Garden",
+        "address": "Leof. Vasilisis Amalias 1, Athina 105 57, Greece",
+        "latitude": 37.9725878,
+        "longitude": 23.737433,
+        "rating": 4.6,
+        "place_id": "ChIJDSQ1vT-9oRQRnAtzDrZWPIw",
+        "types": [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc25": {
+        "name": "Ermou",
+        "address": "Ermou, Athina, Greece",
+        "latitude": 37.9769307,
+        "longitude": 23.7244758,
+        "rating": "N/A",
+        "place_id": "ChIJ5yWoVSK9oRQRxKaoek5lUxU",
+        "types": [
+            "route"
+        ],
+        "status": "FOUND"
+    },
+    "loc26": {
+        "name": "Sweet Nolan",
+        "address": "Apollonos 6Β, Athina 105 57, Greece",
+        "latitude": 37.9747925,
+        "longitude": 23.7324814,
+        "rating": 3.8,
+        "place_id": "ChIJ1VQlKHG9oRQRytrzvwA8-ZI",
+        "types": [
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc27": {
+        "name": "The Bank Job",
+        "address": "105 62 13, Kolokotroni, Athina 105 62, Greece",
+        "latitude": 37.9773307,
+        "longitude": 23.7321107,
+        "rating": 4.3,
+        "place_id": "ChIJja3DDDy9oRQRKsqZ-ip5D40",
+        "types": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc28": {
+        "name": "72H Artisanal Bakery & Eatery Athens",
+        "address": "Patroou 9, Athina 105 57, Greece",
+        "latitude": 37.9751837,
+        "longitude": 23.7311148, 
+        "rating": 4.4,
+        "place_id": "ChIJrVNAPrC9oRQRrulw9CfL4kA",
+        "types": [
+            "bakery",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc29": {
+        "name": "ERGON House Athens",
+        "address": "23, Mitropoleos Street, Athina 105 57, Greece",
+        "latitude": 37.9752802,
+        "longitude": 23.7315221,
+        "rating": 4.3,
+        "place_id": "ChIJSyLizgS9oRQR2ESu_x0Qhqo",
+        "types": [
+            "restaurant",
+            "lodging",
+            "cafe",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc30": {
+        "name": "The Zillers Pastry Bar",
+        "address": "Palaiologou Benizelou 6, Athina 105 56, Greece",
+        "latitude": 37.9747403,
+        "longitude": 23.7296362,
+        "rating": 4.4,
+        "place_id": "ChIJdQDRK6m9oRQRXhVWWMGJ0Zg",
+        "types": [
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc31": {
+        "name": "To Lokali Bar, Athens",
+        "status": "NOT_FOUND",
+        "error": "ZERO_RESULTS"
+    },
+    "loc32": {
+        "name": "Ciel Athens",
+        "address": "ΜΝΗΣΙΚΛΕΟΥΣ, Mitropoleos 2, Athina 105 56, Greece",
+        "latitude": 37.9757018,
+        "longitude": 23.7287786,
+        "rating": 4.4,
+        "place_id": "ChIJtSOV2qi9oRQR9hlfwl3kKZs",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc33": {
+        "name": "Rooster",
+        "address": "Pl. Agias Irinis 4, Athina 105 60, Greece",
+        "latitude": 37.9772157,
+        "longitude": 23.7283819,
+        "rating": 4.2,
+        "place_id": "ChIJFfctxjy9oRQRGWhZiyP9rd0",
+        "types": [
+            "bar",
+            "cafe",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc34": {
+        "name": "Dirty Sanchez Cantina Mexicana",
+        "address": "Olimpionikon 310, Neo Psichiko 154 51, Greece",
+        "latitude": 38.0072749,
+        "longitude": 23.777913,
+        "rating": 4.2,
+        "place_id": "ChIJdQSg-d6ZoRQRaSitkSbvz5s",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc35": {
+        "name": "Bless Me Father",
+        "address": "Plateia Karytsi 2, Athina 105 61, Greece",
+        "latitude": 37.9778566,
+        "longitude": 23.7311817,
+        "rating": 4.1,
+        "place_id": "ChIJ7ZTPnoy9oRQRgpB00jh9oPQ",
+        "types": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc36": {
+        "name": "Drachmi",
+        "address": "Anthimou Gazi 9, Athina 105 61, Greece",
+        "latitude": 37.9779637,
+        "longitude": 23.7322239,
+        "rating": 4.3,
+        "place_id": "ChIJjeJM9Du9oRQRlINjVaUyCOU",
+        "types": [
+            "bar",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc37": {
+        "name": "Lost Athens",
+        "address": "Archelaou 7, Athina 116 35, Greece",
+        "latitude": 37.9706671,
+        "longitude": 23.7466765,
+        "rating": 4.3,
+        "place_id": "ChIJ5UhWblK9oRQRLfYS5u3PSfs",
+        "types": [
+            "restaurant",
+            "bar",
+            "cafe",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc38": {
+        "name": "Junior does Wine",
+        "address": "Meandrou 5, Athina 115 28, Greece",
+        "latitude": 37.97680829999999,
+        "longitude": 23.7538371,
+        "rating": 4.7,
+        "place_id": "ChIJBVmiUm69oRQRAcazSWVhujQ",
+        "types": [
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc39": {
+        "name": "Drupes Spritzeria",
+        "address": "Zitrou 20, Athina 117 42, Greece",
+        "latitude": 37.9678065,
+        "longitude": 23.7268281,
+        "rating": 4.6,
+        "place_id": "ChIJ7R1xDRq9oRQRkg3lT_y4igc",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc40": {
+        "name": "Bios",
+        "address": "Pireos 84, Athina 104 35, Greece",
+        "latitude": 37.9797994,
+        "longitude": 23.7180971,
+        "rating": 4.4,
+        "place_id": "ChIJ_cOT3CC9oRQRcZdnJp_dsRA",
+        "types": [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc41": {
+        "name": "Easy Peasy",
+        "address": "Emiliou Veaki 12, Peristeri 121 34, Greece",
+        "latitude": 38.01164929999999,
+        "longitude": 23.6956971,
+        "rating": 4.6,
+        "place_id": "ChIJP6C7K0ijoRQR7zZ4Ueg1Mr4",
+        "types": [
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc42": {
+        "name": "Athens Concert Hall",
+        "address": "Βασιλίσσης Σοφίας, Petrou Kokkali &, Athina, Greece",
+        "latitude": 37.9811327,
+        "longitude": 23.7542267,
+        "rating": 4.8,
+        "place_id": "ChIJs5auAFG9oRQR5yxazw1E-i4",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc43": {
+        "name": "Vallianeio Megaron",
+        "address": "Panepistimiou 32, Athina 106 79, Greece",
+        "latitude": 37.9811098,
+        "longitude": 23.7329686,
+        "rating": 4.6,
+        "place_id": "ChIJqTF_Izq9oRQRdO7Ezjsto28",
+        "types": [
+            "tourist_attraction",
+            "library",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc44": {
+        "name": "National Theatre of Greece",
+        "address": "Agiou Konstantinou 22, Athina 104 37, Greece",
+        "latitude": 37.9849021,
+        "longitude": 23.7253489,
+        "rating": 4.7,
+        "place_id": "ChIJi5ctya2boRQRM5XGoPp0KAk",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc45": {
+        "name": "Greek National Opera",
+        "address": "Leof. Andrea Siggrou 364, Kallithea 176 74, Greece",
+        "latitude": 37.93933980000001,
+        "longitude": 23.6913893,
+        "rating": 4.8,
+        "place_id": "ChIJzaNc1Cm9oRQR5T4vjLpUDFg",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc46": {
+        "name": "Philopappos Hill",
+        "address": "Φυλής 215, Athina 117 41, Greece",
+        "latitude": 37.9671683,
+        "longitude": 23.7215953,
+        "rating": 4.8,
+        "place_id": "ChIJgfxwACK9oRQR4Q-3guLucaY",
+        "types": [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc47": {
+        "name": "Mount Lycabettus",
+        "address": "Mount Lycabettus, Athens 114 71, Greece",
+        "latitude": 37.9817858,
+        "longitude": 23.7430565,
+        "rating": 4.8,
+        "place_id": "ChIJkXWXEk69oRQRao7rDwGANWg",
+        "types": [
+            "natural_feature",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc48": {
+        "name": "SNF Headquarters",
+        "address": "Vasilissis Sofias 86Α, Athina 115 28, Greece",
+        "latitude": 37.9812386,
+        "longitude": 23.7556744,
+        "rating": 4.8,
+        "place_id": "ChIJZfpgIVG9oRQR_O2TmCmVU7I",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc49": {
+        "name": "Varvakios Central Municipal Market",
+        "address": "Νο68 Βαρβακειος Αγορα, Athina, Greece",
+        "latitude": 37.9804286,
+        "longitude": 23.7276638,
+        "rating": 4.2,
+        "place_id": "ChIJmxTsUSO9oRQRLUSSm2pGMTA",
+        "types": [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    },
+    "loc50": {
+        "name": "Technopolis City of Athens",
+        "address": "Pireos 100, Athina 118 54, Greece",
+        "latitude": 37.9782261,
+        "longitude": 23.7136476,
+        "rating": 4.5,
+        "place_id": "ChIJi4qXiN-8oRQRtEZcuWsfjhk",
+        "types": [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+        ],
+        "status": "FOUND"
+    }
+}
