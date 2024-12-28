@@ -16,10 +16,10 @@ class SimpleHeader extends StatelessWidget {
   final double underlineWidth;
 
   const SimpleHeader({
-    Key? key,
+    super.key,
     required this.title,
     required this.underlineWidth,
-  }) : super(key: key);
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -54,7 +54,7 @@ class SimpleHeader extends StatelessWidget {
           ),
           const SizedBox(height: 0),
           Image.asset(
-            'assets/challenges_icons/Underline.png',
+            'assets/images/underline.png',
             width: underlineWidth,
             fit: BoxFit.contain,
           ),
