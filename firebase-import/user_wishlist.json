@@ -1,0 +1,39 @@
+{
+  "user3": {
+    "1": { "location_id": "loc1" },
+    "2": { "location_id": "loc2" },
+    "3": { "location_id": "loc4" },
+    "4": { "location_id": "loc6" },
+    "5": { "location_id": "loc10" },
+    "6": { "location_id": "loc12" },
+    "7": { "location_id": "loc14" },
+    "8": { "location_id": "loc19" },
+    "9": { "location_id": "loc24" },
+    "10": { "location_id": "loc50" }
+  },
+  "user4": {
+    "1": { "location_id": "loc3" },
+    "2": { "location_id": "loc5" },
+    "3": { "location_id": "loc6" },
+    "4": { "location_id": "loc7" },
+    "5": { "location_id": "loc8" },
+    "6": { "location_id": "loc11" },
+    "7": { "location_id": "loc16" },
+    "8": { "location_id": "loc18" },
+    "9": { "location_id": "loc27" },
+    "10": { "location_id": "loc49" }
+  },
+  "user5": {
+    "1": { "location_id": "loc7" },
+    "2": { "location_id": "loc8" },
+    "3": { "location_id": "loc10" },
+    "4": { "location_id": "loc13" },
+    "5": { "location_id": "loc15" },
+    "6": { "location_id": "loc20" },
+    "7": { "location_id": "loc23" },
+    "8": { "location_id": "loc32" },
+    "9": { "location_id": "loc40" },
+    "10": { "location_id": "loc45" }
+  }
+}
+

@@ -1,0 +1,253 @@
+{
+    "loc1": {
+        "name": "Acropolis Museum",
+        "description": "Ultramodern glass & steel museum housing ancient artifacts from the Acropolis archaeological site.",
+        "status": "FOUND"
+    },
+    "loc2": {
+        "name": "National Museum of Contemporary Art Αthens (ΕΜΣΤ)",
+        "description": "Noted collection of Greek & international contemporary art housed in a sleek-design former brewery.",
+        "status": "FOUND"
+    },
+    "loc3": {
+        "name": "Acropolis of Athens",
+        "description": "Ruins of iconic 5th-century B.C. temple complex on Athens' rocky hilltop undergoing restoration.",
+        "status": "FOUND"
+    },
+    "loc4": {
+        "name": "National Gallery - Alexandros Soutsos Museum",
+        "description": "Greek & European paintings, statues, engravings & installations from the 1400s to the present day.",
+        "status": "FOUND"
+    },
+    "loc5": {
+        "name": "Athens Olympic Museum",
+        "description": "No description available.",
+        "status": "FOUND"
+    },
+    "loc6": {
+        "name": "National Archaeological Museum",
+        "description": "Neoclassical museum of Ancient Greek art & archaeology, with sculpture, metalwork, vases & jewelry.",
+        "status": "FOUND"
+    },
+    "loc7": {
+        "name": "Temple of Poseidon",
+        "description": "5th-century BCE temple ruins with Doric-style columns, offering sweeping views of the sea.",
+        "status": "FOUND"
+    },
+    "loc8": {
+        "name": "Temple of Olympian Zeus",
+        "description": "Vast temple begun in 6th century B.C. on the site of an ancient outdoor sanctuary dedicated to Zeus.",
+        "status": "FOUND"
+    },
+    "loc9": {
+        "name": "Panathenaic Stadium",
+        "description": "Site of the first modern Olympic games in 1896, now hosting ceremonial events & tours.",
+        "status": "FOUND"
+    },
+    "loc10": {
+        "name": "Museum of Cycladic Art",
+        "description": "Museum featuring ancient Cycladic sculptures & artifacts, with kid-friendly activities & exhibits.",
+        "status": "FOUND"
+    },
+    "loc11": {
+        "name": "War Museum Athens",
+        "description": "No description available.",
+        "status": "FOUND"
+    },
+    "loc12": {
+        "name": "National Historical Museum - Old Parliament House",
+        "description": "Exhibits on modern Greek history spanning art, weapons & documents, in the Old Parliament building.",
+        "status": "FOUND"
+    },
+    "loc13": {
+        "name": "Bronco",
+        "description": "No description available.",
+        "status": "FOUND"
+    },
+    "loc14": {
+        "name": "Ohh Boy",
+        "description": "Coffee, desserts & brunch served in a compact, country-chic cafe with a terrace.",
+        "status": "FOUND"
+    },
+    "loc15": {
+        "name": "Fellos",
+        "description": "No description available.",
+        "status": "FOUND"
+    },
+    "loc16": {
+        "name": "The Makers Athens",
+        "description": "No description available.",
+        "status": "FOUND"
+    },
+    "loc17": {
+        "name": "Anana Coffee & Food",
+        "description": "No description available.",
+        "status": "FOUND"
+    },
+    "loc18": {
+        "name": "heteroclito",
+        "description": "No description available.",
+        "status": "FOUND"
+    },
+    "loc19": {
+        "name": "Lovely Days",
+        "description": "No description available.",
+        "status": "FOUND"
+    },
+    "loc20": {
+        "name": "Anafiotika",
+        "description": "No description available.",
+        "status": "FOUND"
+    },
+    "loc21": {
+        "name": "Monastiraki",
+        "description": "No description available.",
+        "status": "FOUND"
+    },
+    "loc22": {
+        "name": "Plaka",
+        "description": "No description available.",
+        "status": "FOUND"
+    },
+    "loc23": {
+        "name": "Thiseio",
+        "description": "No description available.",
+        "status": "FOUND"
+    },
+    "loc24": {
+        "name": "Athens National Garden",
+        "description": "Big historic park with native & exotic plants, plus archeological remains & a children's library.",
+        "status": "FOUND"
+    },
+    "loc25": {
+        "name": "Ermou",
+        "description": "No description available.",
+        "status": "FOUND"
+    },
+    "loc26": {
+        "name": "Sweet Nolan",
+        "description": "No description available.",
+        "status": "FOUND"
+    },
+    "loc27": {
+        "name": "The Bank Job",
+        "description": "No description available.",
+        "status": "FOUND"
+    },
+    "loc28": {
+        "name": "72H Artisanal Bakery & Eatery Athens",
+        "description": "No description available.",
+        "status": "FOUND"
+    },
+    "loc29": {
+        "name": "ERGON House Athens",
+        "description": "Sophisticated hotel above a trendy marketplace & food court, plus free breakfast & Wi-Fi.",
+        "status": "FOUND"
+    },
+    "loc30": {
+        "name": "The Zillers Pastry Bar",
+        "description": "No description available.",
+        "status": "FOUND"
+    },
+    "loc31": {
+        "name": "To Lokali Bar, Athens",
+        "description": "No description available.",
+        "status": "NOT_FOUND",
+        "error": "ZERO_RESULTS"
+    },
+    "loc32": {
+        "name": "Ciel Athens",
+        "description": "No description available.",
+        "status": "FOUND"
+    },
+    "loc33": {
+        "name": "Rooster",
+        "description": "Buzzy all-day gay hangout for pasta, pizza & comfort food, plus art & photography exhibitions.",
+        "status": "FOUND"
+    },
+    "loc34": {
+        "name": "Dirty Sanchez Cantina Mexicana",
+        "description": "No description available.",
+        "status": "FOUND"
+    },
+    "loc35": {
+        "name": "Bless Me Father",
+        "description": "No description available.",
+        "status": "FOUND"
+    },
+    "loc36": {
+        "name": "Drachmi",
+        "description": "Cocktails & coffee are served at this cozy, convivial hangout with outdoor tables.",
+        "status": "FOUND"
+    },
+    "loc37": {
+        "name": "Lost Athens",
+        "description": "No description available.",
+        "status": "FOUND"
+    },
+    "loc38": {
+        "name": "Junior does Wine",
+        "description": "No description available.",
+        "status": "FOUND"
+    },
+    "loc39": {
+        "name": "Drupes Spritzeria",
+        "description": "No description available.",
+        "status": "FOUND"
+    },
+    "loc40": {
+        "name": "Bios",
+        "description": "Acropolis views from the rooftop bar of an arts center that hosts movies, concerts & DJ sessions.",
+        "status": "FOUND"
+    },
+    "loc41": {
+        "name": "Easy Peasy",
+        "description": "No description available.",
+        "status": "FOUND"
+    },
+    "loc42": {
+        "name": "Athens Concert Hall",
+        "description": "Large complex with 4 concert halls offering a lineup of musical, dance & theatrical performances.",
+        "status": "FOUND"
+    },
+    "loc43": {
+        "name": "Vallianeio Megaron",
+        "description": "Grand neoclassical building from 1832 housing  Greek-related books, periodicals & manuscripts.",
+        "status": "FOUND"
+    },
+    "loc44": {
+        "name": "National Theatre of Greece",
+        "description": "No description available.",
+        "status": "FOUND"
+    },
+    "loc45": {
+        "name": "Greek National Opera",
+        "description": "No description available.",
+        "status": "FOUND"
+    },
+    "loc46": {
+        "name": "Philopappos Hill",
+        "description": "Views of Athens & the Acropolis attract hikers to this small peak with an ancient monument.",
+        "status": "FOUND"
+    },
+    "loc47": {
+        "name": "Mount Lycabettus",
+        "description": "This prominent limestone peak features a cable car, open-air concert venue & panoramic views.",
+        "status": "FOUND"
+    },
+    "loc48": {
+        "name": "Stavros Niarchos Foundation Cultural Center",
+        "description": "Modern cultural hub with a national library, opera house, theater & surrounding park.",
+        "status": "FOUND"
+    },
+    "loc49": {
+        "name": "Varvakios Central Municipal Market",
+        "description": "Fish, meat & produce are sold at this central market, also featuring restaurants.",
+        "status": "FOUND"
+    },
+    "loc50": {
+        "name": "Technopolis City of Athens",
+        "description": "Set in a former gasworks, this arts & culture space now hosts concerts, exhibitions & a gas museum.",
+        "status": "FOUND"
+    }
+}

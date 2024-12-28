@@ -1,0 +1,146 @@
+{
+    "Challenges":{
+        "challenge_1": {
+          "title": "Visit all monuments",
+          "description": "Complete the challenge by visiting top 5 monuments.",
+          "points_gained": 50,
+          "start_date": "2024-01-01",
+          "end_date": "2024-01-07"
+        },
+        "challenge_2": {
+          "title": "Try local cuisine",
+          "description": "Taste the 10 most popular dishes in Athens.",
+          "points_gained": 50,
+          "start_date": "2024-01-01",
+          "end_date": "2024-01-07"
+        },
+        "challenge_3": {
+          "title": "Explore Acropolis",
+          "description": "Visit the Acropolis and admire the Parthenon.",
+          "points_gained": 50,
+          "start_date": "2024-01-01",
+          "end_date": "2024-01-07"
+        },
+        "challenge_4": {
+          "title": "Taste Souvlaki",
+          "description": "Find and taste the best souvlaki spots around the city.",
+          "points_gained": 50,
+          "start_date": "2024-01-01",
+          "end_date": "2024-01-07"
+        },
+        "challenge_5": {
+          "title": "Take a photo at Anafiotika",
+          "description": "Capture the picturesque white-washed houses of Anafiotika.",
+          "points_gained": 50,
+          "start_date": "2024-01-01",
+          "end_date": "2024-01-07"
+        },
+        "challenge_6": {
+          "title": "Watch the sunset at Lycabettus Hill",
+          "description": "Enjoy a breathtaking sunset view from Lycabettus Hill.",
+          "points_gained": 50,
+          "start_date": "2024-01-01",
+          "end_date": "2024-01-07"
+        },
+        "challenge_7": {
+          "title": "Try Moussaka",
+          "description": "Taste the most authentic moussaka from a local taverna.",
+          "points_gained": 50,
+          "start_date": "2024-01-01",
+          "end_date": "2024-01-07"
+        },
+        "challenge_8": {
+          "title": "Visit the Temple of Hephaestus",
+          "description": "Explore the well-preserved ancient temple in Agora.",
+          "points_gained": 50,
+          "start_date": "2024-01-01",
+          "end_date": "2024-01-07"
+        },
+        "challenge_9": {
+          "title": "Relax at the National Garden",
+          "description": "Spend a relaxing afternoon in the National Garden of Athens.",
+          "points_gained": 50,
+          "start_date": "2024-01-01",
+          "end_date": "2024-01-07"
+        },
+        "challenge_10": {
+          "title": "Sample Gyros",
+          "description": "Discover and enjoy the finest gyros in Athens.",
+          "points_gained": 50,
+          "start_date": "2024-01-01",
+          "end_date": "2024-01-07"
+        },
+        "challenge_11": {
+          "title": "Visit the Acropolis Museum",
+          "description": "Admire ancient artifacts at the Acropolis Museum.",
+          "points_gained": 50,
+          "start_date": "2024-01-01",
+          "end_date": "2024-01-07"
+        },
+        "challenge_12": {
+          "title": "Explore Plaka",
+          "description": "Walk through Plaka’s charming streets.",
+          "points_gained": 50,
+          "start_date": "2024-01-01",
+          "end_date": "2024-01-07"
+        },
+        "challenge_13": {
+          "title": "Try Loukoumades",
+          "description": "Indulge in loukoumades, the Greek honey puffs.",
+          "points_gained": 50,
+          "start_date": "2024-01-01",
+          "end_date": "2024-01-07"
+        },
+        "challenge_14": {
+          "title": "Hike through Philopappos Hill",
+          "description": "Enjoy panoramic views of the Acropolis from Philopappos Hill.",
+          "points_gained": 50,
+          "start_date": "2024-01-01",
+          "end_date": "2024-01-07"
+        },
+        "challenge_15": {
+          "title": "Try Spanakopita",
+          "description": "Taste the perfect spinach pie from a traditional bakery.",
+          "points_gained": 50,
+          "start_date": "2024-01-01",
+          "end_date": "2024-01-07"
+        },
+        "challenge_16": {
+          "title": "Explore Monastiraki",
+          "description": "Discover the vibrant flea markets in Monastiraki.",
+          "points_gained": 50,
+          "start_date": "2024-01-01",
+          "end_date": "2024-01-07"
+        },
+        "challenge_17": {
+          "title": "Taste Baklava",
+          "description": "Enjoy the sweet and flaky baklava dessert.",
+          "points_gained": 50,
+          "start_date": "2024-01-01",
+          "end_date": "2024-01-07"
+        },
+        "challenge_18": {
+          "title": "Visit Cape Sounion",
+          "description": "Explore the Temple of Poseidon with stunning coastal views.",
+          "points_gained": 50,
+          "start_date": "2024-01-01",
+          "end_date": "2024-01-07"
+        },
+        "challenge_19": {
+          "title": "Relax at a rooftop bar",
+          "description": "Enjoy a drink with a stunning Acropolis view.",
+          "points_gained": 50,
+          "start_date": "2024-01-01",
+          "end_date": "2024-01-07"
+        },
+        "challenge_20": {
+          "title": "Taste Feta Cheese Dishes",
+          "description": "Try feta cheese in Greek salads and pies.",
+          "points_gained": 50,
+          "start_date": "2024-01-01",
+          "end_date": "2024-01-07"
+        }
+      }
+    }
+        
+      

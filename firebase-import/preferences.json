@@ -1,0 +1,18 @@
+{
+    "Preferences": {
+      "1": { "preference_id": 1, "preference_name": "Architectural admirer" },
+      "2": { "preference_id": 2, "preference_name": "Café & Cheers" },
+      "3": { "preference_id": 3, "preference_name": "Nature lover" },
+      "4": { "preference_id": 4, "preference_name": "Adventure chaser" },
+      "5": { "preference_id": 5, "preference_name": "Foodie" },
+      "6": { "preference_id": 6, "preference_name": "Alternative spots seeker" },
+      "7": { "preference_id": 7, "preference_name": "Art aficionado" },
+      "8": { "preference_id": 8, "preference_name": "History buff" },
+      "9": { "preference_id": 9, "preference_name": "Night life seeker" },
+      "10": { "preference_id": 10, "preference_name": "Local explorer" },
+      "11": { "preference_id": 11, "preference_name": "Zen seeker" },
+      "12": { "preference_id": 12, "preference_name": "Family traveler" },
+      "13": { "preference_id": 13, "preference_name": "Whatever (surprise me!)" }
+    }
+  }
+  

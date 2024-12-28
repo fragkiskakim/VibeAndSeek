@@ -1,0 +1,125 @@
+{
+    "Coupons": {
+      "1": {
+        "coupon_id": "1",
+        "coupon_code": "DISCOUNT20",
+        "store_name": "Acropolis Museum, Athens",
+        "discount_percentage": 20
+      },
+      "2": {
+        "coupon_id": "2",
+        "coupon_code": "SAVE15",
+        "store_name": "National Museum of Contemporary Art, Athens",
+        "discount_percentage": 15
+      },
+      "3": {
+        "coupon_id": "3",
+        "coupon_code": "OFFER30",
+        "store_name": "National Archaeological Museum, Athens",
+        "discount_percentage": 30
+      },
+      "4": {
+        "coupon_id": "4",
+        "coupon_code": "DEAL10",
+        "store_name": "National Gallery, Athens",
+        "discount_percentage": 10
+      },
+      "5": {
+        "coupon_id": "5",
+        "coupon_code": "PROMO25",
+        "store_name": "Olympic Museum, Athens",
+        "discount_percentage": 25
+      },
+      "6": {
+        "coupon_id": "6",
+        "coupon_code": "SPECIAL5",
+        "store_name": "Goulandris Museum of Cycladic Art, Athens",
+        "discount_percentage": 5
+      },
+      "7": {
+        "coupon_id": "7",
+        "coupon_code": "SALE50",
+        "store_name": "War Museum, Athens",
+        "discount_percentage": 50
+      },
+      "8": {
+        "coupon_id": "8",
+        "coupon_code": "HOLIDAY10",
+        "store_name": "Old Parliament House, Athens",
+        "discount_percentage": 10
+      },
+      "9": {
+        "coupon_id": "9",
+        "coupon_code": "WELCOME20",
+        "store_name": "Bios Cultural Center, Athens",
+        "discount_percentage": 20
+      },
+      "10": {
+        "coupon_id": "10",
+        "coupon_code": "NEWYEAR25",
+        "store_name": "National Library of Greece, Athens",
+        "discount_percentage": 25
+      },
+      "11": {
+        "coupon_id": "11",
+        "coupon_code": "SUMMER15",
+        "store_name": "National Theatre of Greece, Athens",
+        "discount_percentage": 15
+      },
+      "12": {
+        "coupon_id": "12",
+        "coupon_code": "FLASH40",
+        "store_name": "National Opera House, Athens",
+        "discount_percentage": 40
+      },
+      "13": {
+        "coupon_id": "13",
+        "coupon_code": "SAVE10",
+        "store_name": "Technopolis Gazi, Athens",
+        "discount_percentage": 10
+      },
+      "14": {
+        "coupon_id": "14",
+        "coupon_code": "DISCOUNT35",
+        "store_name": "Acropolis Museum, Athens",
+        "discount_percentage": 35
+      },
+      "15": {
+        "coupon_id": "15",
+        "coupon_code": "OFFER5",
+        "store_name": "National Archaeological Museum, Athens",
+        "discount_percentage": 5
+      },
+      "16": {
+        "coupon_id": "16",
+        "coupon_code": "PROMO50",
+        "store_name": "National Gallery, Athens",
+        "discount_percentage": 50
+      },
+      "17": {
+        "coupon_id": "17",
+        "coupon_code": "HOLIDAY15",
+        "store_name": "Olympic Museum, Athens",
+        "discount_percentage": 15
+      },
+      "18": {
+        "coupon_id": "18",
+        "coupon_code": "WELCOME25",
+        "store_name": "War Museum, Athens",
+        "discount_percentage": 25
+      },
+      "19": {
+        "coupon_id": "19",
+        "coupon_code": "FLASH30",
+        "store_name": "National Opera House, Athens",
+        "discount_percentage": 30
+      },
+      "20": {
+        "coupon_id": "20",
+        "coupon_code": "SUMMER50",
+        "store_name": "Technopolis Gazi, Athens",
+        "discount_percentage": 50
+      }
+    }
+  }
+  

@@ -1,0 +1,12 @@
+{
+    "Locations_Preferences": {
+      "lp1": {
+        "location_id": "loc1",
+        "preference_id": "pref1"
+      },
+      "lp2": {
+        "location_id": "loc2",
+        "preference_id": "pref2"
+      }
+    }
+  }
