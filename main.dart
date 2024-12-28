@@ -1,50 +1,120 @@
-import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:vibe_and_seek/firebase_options.dart';
-import 'screens/start_screen.dart';
-import 'screens/second_screen.dart';
-import 'screens/login_screen.dart';
-import 'screens/signup_screen.dart';
-import 'screens/myvibe1_screen.dart';
-import 'screens/myvibe2_screen.dart';
-import 'screens/homepage_screen.dart';
-import 'screens/my_profile_screen.dart';
-import 'screens/forum_screen.dart';
-import 'screens/maps_screen.dart';
+import 'package:firebase_core/firebase_core.dart';
+import 'firebase_options.dart';
+import 'maps/main_map.dart';
+import 'users_pages/visited_page.dart';
+
+import 'users_pages/wishlist_screen.dart';
+import 'users_pages/coupons_screen.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
-
   await Firebase.initializeApp(
     options: DefaultFirebaseOptions.currentPlatform,
   );
-
   runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
-  const MyApp({Key? key}) : super(key: key);
+  const MyApp({super.key});
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Vibe and Seek Athens',
+      title: 'Athens Attractions',
       theme: ThemeData(
         primarySwatch: Colors.blue,
+        visualDensity: VisualDensity.adaptivePlatformDensity,
+        scaffoldBackgroundColor: const Color(0xFFFAF7F2),
+        fontFamily: 'Finlandica',
       ),
-      initialRoute: '/', // Start from StartScreen
-      routes: {
-        '/': (context) => const StartScreen(), // Register StartScreen
-        '/second': (context) => const SecondScreen(), // Register SecondScreen
-        '/login': (context) => const LoginScreen(), // Register LoginScreen
-        '/signup': (context) => const SignupScreen(), // Register SignupScreen
-        '/myvibe1': (context) => const MyVibe1Screen(), // Register MyVibe1Screen
-        '/myvibe2': (context) => const MyVibe2Screen(), // Register MyVibe2Screen
-        '/homepage': (context) => HomePageScreen(), // Register HomePageScreen
-        '/profile': (context) => const MyProfileScreen(), // Register MyProfileScreen
-        '/forum': (context) => ForumScreen(), //Register ForumScreen
-        '/maps': (context) => const MapsScreen(), //Register MapsScreen
-      },
+      home: const MainNavigator(),
+    );
+  }
+}
+
+class MainNavigator extends StatefulWidget {
+  const MainNavigator({super.key});
+
+  @override
+  State<MainNavigator> createState() => _MainNavigatorState();
+}
+
+class _MainNavigatorState extends State<MainNavigator> {
+  int _currentIndex = 0;
+  final String userId = 'user3'; // Replace with actual user ID management
+
+  late final List<Widget> _screens;
+
+  @override
+  void initState() {
+    super.initState();
+    _screens = [
+      const MapScreen(),
+      VisitedLocationsScreen(userId: userId),
+      WishlistScreen(userId: userId),
+      CouponsScreen(userId: userId),
+    ];
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      body: _screens[_currentIndex],
+      bottomNavigationBar: Container(
+        decoration: BoxDecoration(
+          color: Colors.white,
+          boxShadow: [
+            BoxShadow(
+              color: Colors.black.withOpacity(0.1),
+              blurRadius: 10,
+            ),
+          ],
+        ),
+        child: BottomNavigationBar(
+          currentIndex: _currentIndex,
+          onTap: (index) {
+            setState(() {
+              _currentIndex = index;
+            });
+          },
+          type: BottomNavigationBarType.fixed,
+          backgroundColor: Colors.transparent,
+          elevation: 0,
+          selectedItemColor: const Color(0xFF003366),
+          unselectedItemColor: Colors.grey,
+          items: const [
+            BottomNavigationBarItem(
+              icon: Icon(Icons.map),
+              label: 'Map',
+            ),
+            BottomNavigationBarItem(
+              icon: Icon(Icons.place),
+              label: 'Visited',
+            ),
+            BottomNavigationBarItem(
+              icon: Icon(Icons.favorite_border),
+              label: 'Wishlist',
+            ),
+            BottomNavigationBarItem(
+              icon: Icon(Icons.local_offer),
+              label: 'Coupons',
+            ),
+          ],
+        ),
+      ),
+      // Add a FloatingActionButton for quick access to coupons
+      floatingActionButton: _currentIndex == 0
+          ? FloatingActionButton(
+              onPressed: () {
+                setState(() {
+                  _currentIndex = 3; // Updated index for coupons tab
+                });
+              },
+              backgroundColor: const Color(0xFF003366),
+              child: const Icon(Icons.local_offer),
+            )
+          : null,
     );
   }
 }

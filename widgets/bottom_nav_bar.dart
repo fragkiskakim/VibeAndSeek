@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import '../screens/homepage_screen.dart';
+import '../screens/my_profile_screen.dart';
+import '../maps/main_map.dart';
 
 class NavigationButtons extends StatelessWidget {
   const NavigationButtons({super.key});
@@ -17,7 +20,11 @@ class NavigationButtons extends StatelessWidget {
               width: 30,
             ),
             onPressed: () {
-              Navigator.pushNamed(context, '/forum');
+              Navigator.push(
+                context,
+                MaterialPageRoute(
+                    builder: (context) => const MyProfileScreen()),
+              );
             },
           ),
           IconButton(
@@ -27,7 +34,10 @@ class NavigationButtons extends StatelessWidget {
               width: 24,
             ),
             onPressed: () {
-              Navigator.pushNamed(context, '/homepage');
+              Navigator.push(
+                context,
+                MaterialPageRoute(builder: (context) => HomePageScreen()),
+              );
             },
           ),
           IconButton(
@@ -37,7 +47,10 @@ class NavigationButtons extends StatelessWidget {
               width: 30,
             ),
             onPressed: () {
-              Navigator.pushNamed(context, '/maps');
+              Navigator.push(
+                context,
+                MaterialPageRoute(builder: (context) => const MapScreen()),
+              );
             },
           ),
         ],
