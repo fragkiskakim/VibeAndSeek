@@ -94,40 +94,45 @@ class VisitedLocationsService {
     }
   }
 
-  // Remove a location from visited places
-  Future<void> removeFromVisited(String userId, String locationId) async {
-    try {
-      DocumentSnapshot doc =
-          await _firestore.collection('User_Visited').doc(userId).get();
+  Future<void> removeFromVisited(String locationId) async {
+  try {
+    DocumentSnapshot doc = await _firestore.collection('User_Visited').doc(userId).get();
 
-      if (!doc.exists || doc.data() == null) {
-        throw Exception('Visited document not found');
-      }
-
-      Map<String, dynamic> data = doc.data() as Map<String, dynamic>;
-      Map<String, dynamic> updates = {};
-
-      data.forEach((key, value) {
-        if (value is Map<String, dynamic> &&
-            value['location_id'] != null &&
-            value['location_id'].toString() == locationId) {
-          updates[key] = FieldValue.delete();
-        }
-      });
-
-      if (updates.isNotEmpty) {
-        await _firestore.collection('User_Visited').doc(userId).update(updates);
-
-        print('Successfully removed location $locationId from visited places');
-      } else {
-        print('Location $locationId not found in visited places');
-      }
-    } catch (e) {
-      print('Error removing from visited places: $e');
-      rethrow;
+    if (!doc.exists || doc.data() == null) {
+      throw Exception('Visited document not found');
     }
-  }
 
+    Map<String, dynamic> data = doc.data() as Map<String, dynamic>;
+    List<MapEntry<String, dynamic>> entries = [];
+    
+    // Collect all entries except the one to remove
+    data.forEach((key, value) {
+      if (value is Map<String, dynamic> &&
+          value['location_id'] != null &&
+          value['location_id'].toString() != locationId) {
+        entries.add(MapEntry(key, value));
+      }
+    });
+
+    // Create new map with reindexed entries
+    Map<String, dynamic> newData = {};
+    for (int i = 0; i < entries.length; i++) {
+      newData[(i + 1).toString()] = entries[i].value;
+    }
+
+    // Write the reindexed data back
+    await _firestore.collection('User_Visited').doc(userId).set(newData);
+
+    if (kDebugMode) {
+      print('Successfully removed location $locationId from visited places');
+    }
+  } catch (e) {
+    if (kDebugMode) {
+      print('Error removing from visited places: $e');
+    }
+    rethrow;
+  }
+}
   // Check if a location is visited
   Future<bool> isLocationVisited(String userId, String locationId) async {
     try {
